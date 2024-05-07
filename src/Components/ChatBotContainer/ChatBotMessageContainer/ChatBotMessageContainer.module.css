@@ -1,0 +1,10 @@
+.MessageBoxContainer {
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.MessageText {
+    background-color: #35ece8;
+    padding: 8px 10px;
+    border-radius: 3px;
+}
